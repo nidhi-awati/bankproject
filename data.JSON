@@ -1,0 +1,32 @@
+"states":[
+    {
+        "states":"andhra pradesh",
+        "districts":["anantapur",
+        "chittor",
+        "east godavari",
+        "guntur"
+    ]
+    },
+    {
+        "states":"karnataka",
+        "districts":["raichur",
+        "gulbarga",
+        "dharwad",
+        "hubli"
+        ]
+    },
+   {
+    "states":"telangana",
+    "districts":["medak",
+    "nirmal",
+    "sangareddy",
+    "siddipet"]
+   },
+   {
+    "states":"kerala",
+    "districts":["kannur",
+    "kollam",
+    "idukki",
+    "wayanad"
+]
+   }
